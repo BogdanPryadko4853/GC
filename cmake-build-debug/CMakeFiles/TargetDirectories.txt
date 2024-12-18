@@ -1,0 +1,3 @@
+C:/Users/Bogdan/Desktop/gc/cmake-build-debug/CMakeFiles/gc.dir
+C:/Users/Bogdan/Desktop/gc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bogdan/Desktop/gc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
