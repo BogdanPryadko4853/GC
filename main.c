@@ -63,7 +63,7 @@ void performance() {
 	}
 	freeVM(vm);
 }
-
+//
 int main(int argc, const char** argv) {
 	first_test();
 	second_test();
